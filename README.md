@@ -13,6 +13,7 @@ Predicting aircraft passenger referal and excavating the main influencing factor
   - <a href="#data_cleaning">Data Cleaning</a>
     - <a href="#data_description">Data Description</a>
 - <a href="#data_exploration">Data Exploration</a>
+- <a href="#machine_learning">Machine Learning Algorithms</a>
 
 ## 📝 Problem Statement <p id="bquestions"></p>
 
