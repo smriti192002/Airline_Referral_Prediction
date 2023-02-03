@@ -9,8 +9,8 @@
   - <a href="#business_impact">Business Impact</a>
 - <a href="#methodology">Methodology</a>
   - <a href="#data_dictionary">Data Dictionary</a>
-  - <a href="#data_collect">Data Collect</a>
   - <a href="#data_cleaning">Data Cleaning</a>
+  - <a href="#feature_engineering">Feature Engineering</a> 
 - <a href="#data_exploration">Data Exploration</a>
 - <a href="#machine_learning">Machine Learning Algorithms</a>
 - <a href="#final_model_selection">Final Modeling Selection</a>
@@ -41,7 +41,7 @@ Performing operations such as:
 - Text Cleaning in Reviews column 
 - Analysis of Missing Values and treating them with mode and iterative imputation 
 
-## ⚒️	FEATURE ENGENEERING
+## ⚒️	FEATURE ENGENEERING <p id="feature_engineering"></p>
 
 Important to increase the amount of information needed to better understand the phenomenon we are trying to model. Feature Engineering is also instrumental in obtaining more variables available for study during Data Analysis, which is the next step in this project.
 
