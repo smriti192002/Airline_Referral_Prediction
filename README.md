@@ -50,6 +50,7 @@ Visualising count distribution for various features
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88886118/216599991-64653b72-7a51-4966-9371-c92be39578d7.png">
 </p> 
+
 - Slightly more non recommending users are there as compare to recommending users
 - Most of the users are giving either 1 or 4 rating to the seat comfort
 - More users seems to be happy with service ratings and provide higher(5) ratings
