@@ -60,6 +60,8 @@ Visualising count distribution for various features
   <img src="https://user-images.githubusercontent.com/88886118/216605056-b50e5d35-ad7c-44df-b976-966cc370e380.png">
 </p>
 
+- In all these distributions we can see more users to be providing 1 ratings
+- Most of the users are either rating lowest or highest. Only few users are provinding mediocer rating(3)
 
 <img width="267" alt="SurvivalCurve" src="https://user-images.githubusercontent.com/88886118/216605424-6e60229d-09e1-4324-8999-f6c952387f25.png">
 
