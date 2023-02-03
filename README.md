@@ -35,5 +35,4 @@ Performing operations such as:
 - Deleting Duplicates
 - Dropping unneeded columns
 - Text Cleaning in Reviews column 
-- Analysis of Missing Values and treating them with mode and iterative imputation
-
+- Analysis of Missing Values and treating them with mode and iterative imputation 
