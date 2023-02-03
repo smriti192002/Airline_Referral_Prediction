@@ -162,4 +162,4 @@ Case 1: If Airline company is demanding this project to understand the areas in 
 
 case 2: If airline company is using this to somewhere to attract customer and trying to show the happy customers then recall is important.
 
-We can consider case 1 here and considering all the models are nearly same only and if timing of execution is not a concern then we can go for gradient boost or else we can pick up Loogistic regression or Decision Tree
+We can consider case 1 here and considering all the models are nearly same only and if timing of execution is not a concern then we can go for gradient boost or else we can pick up Loogistic regression or Decision Tree.
