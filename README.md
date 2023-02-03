@@ -43,3 +43,6 @@ Performing operations such as:
 Important to increase the amount of information needed to better understand the phenomenon we are trying to model. Feature Engineering is also instrumental in obtaining more variables available for study during Data Analysis, which is the next step in this project.
 
 ## EXPLORATORY DATA ANALYSIS <p id="data_exploration"></p>
+
+Visualising count distribution for various features
+![download (49)](https://user-images.githubusercontent.com/88886118/216598018-7f8bc079-2f43-4871-b3e6-2496aafe59c2.png)
