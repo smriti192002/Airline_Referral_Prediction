@@ -14,7 +14,7 @@ Predicting aircraft passenger referal and excavating the main influencing factor
     - <a href="#data_description">Data Description</a>
 - <a href="#data_exploration">Data Exploration</a>
 - <a href="#machine_learning">Machine Learning Algorithms</a>
-- <a href="#final_model_selection">FINAL MODELING SELECTION</a>
+- <a href="#final_model_selection">Final Modeling Selection</a>
 
 ## 📝 Problem Statement <p id="bquestions"></p>
 
@@ -146,7 +146,7 @@ It is this project stage that involves the part that most data scientists like t
 | ----------- | ----------- |  ----------- |  ----------- |
 | GradientBoost |	0.96 |	0.95|	0.95
 
-## 📊 FINAL MODEL SELECTION <p id="data_dictionary"></p>
+## 📊 FINAL MODEL SELECTION <p id="final_model_selection"></p>
 
 ![download (60)](https://user-images.githubusercontent.com/88886118/216639621-cab8d217-413c-41ea-914d-bb129821d441.png)
 
