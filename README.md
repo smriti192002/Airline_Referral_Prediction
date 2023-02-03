@@ -28,8 +28,13 @@ Airline referral prediction helps businesses by providing a more efficient and t
 ![Classification_Airline_Passenger_Referral_Prediction_8c4c72cc3f](https://user-images.githubusercontent.com/88886118/216590642-78e80a02-9448-4996-882f-59d5fc9d5804.png)
 
 ## 🧹DATA CLEANING <p id="data_cleaning"></p>
-performing operations such as:
+Performing operations such as:
 
 - Check the size and type of the data and converting it into respective type 
+- Remove all rows with all null values in the data due to spacing issue in original excel
+- Deleting Duplicates
+- Dropping unneeded columns
+- Text Cleaning in Reviews column 
+- Analysis of Missing Values and treating them with mode and iterative imputation
 - 
-
+- 
