@@ -56,4 +56,5 @@ Visualising count distribution for various features
 </p>
 
 
+<img width="267" alt="SurvivalCurve" src="https://user-images.githubusercontent.com/88886118/216605424-6e60229d-09e1-4324-8999-f6c952387f25.png">
 
