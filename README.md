@@ -72,3 +72,5 @@ Visualising count distribution for various features
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88886118/216608807-8325047e-fb4b-45c0-a258-46d5c2ed85c8.png">
 </p>
+
+- From the graph it seems like there is no serious effects of layover on recommendation to the flight as we can see both the flights with and without layover has higher no recommendation with very slight differences in count of each. We can see that for the flights having no information about layover has higher yes recommendation
