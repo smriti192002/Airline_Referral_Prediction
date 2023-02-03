@@ -1,5 +1,5 @@
 # Project Title - Airline Passenger Referral Prediction 
-Predicting aircraft passenger referal and excavating the main influencing factors can help airlines improve their services and gain.
+`Predicting aircraft passenger referal and excavating the main influencing factors can help airlines improve their services and gain.`
 
 ![passenger-airplane-flying-above-clouds-view-window-plane-to-amazing-sky-beautiful-clouds-passenger-airplane-flying-112676322](https://user-images.githubusercontent.com/88886118/216586501-3a428d68-d693-4435-b185-8b5d38a8c2eb.jpeg)
 
@@ -11,7 +11,6 @@ Predicting aircraft passenger referal and excavating the main influencing factor
   - <a href="#data_dictionary">Data Dictionary</a>
   - <a href="#data_collect">Data Collect</a>
   - <a href="#data_cleaning">Data Cleaning</a>
-    - <a href="#data_description">Data Description</a>
 - <a href="#data_exploration">Data Exploration</a>
 - <a href="#machine_learning">Machine Learning Algorithms</a>
 - <a href="#final_model_selection">Final Modeling Selection</a>
@@ -31,7 +30,8 @@ Airline referral prediction helps businesses by providing a more efficient and t
 ## 📝 DATA DICTIONARY <p id="data_dictionary"></p>
 ![Classification_Airline_Passenger_Referral_Prediction_8c4c72cc3f](https://user-images.githubusercontent.com/88886118/216590642-78e80a02-9448-4996-882f-59d5fc9d5804.png)
 
-## 🧹DATA CLEANING <p id="data_cleaning"></p>
+## 🧹 DATA CLEANING <p id="data_cleaning"></p>
+
 Performing operations such as:
 
 - Check the size and type of the data and converting it into respective type 
@@ -41,13 +41,15 @@ Performing operations such as:
 - Text Cleaning in Reviews column 
 - Analysis of Missing Values and treating them with mode and iterative imputation 
 
-## FEATURE ENGENEERING
+## ⚒️	FEATURE ENGENEERING
 
 Important to increase the amount of information needed to better understand the phenomenon we are trying to model. Feature Engineering is also instrumental in obtaining more variables available for study during Data Analysis, which is the next step in this project.
 
-## EXPLORATORY DATA ANALYSIS <p id="data_exploration"></p>
+## 🔎 EXPLORATORY DATA ANALYSIS <p id="data_exploration"></p>
 
-Visualising count distribution for various features
+Exploratory Data Analysis (EDA) is a method used to analyze and summarize datasets, in order to gain insights and understand the underlying structure of the data. It typically involves visualizing the data, computing basic statistics and identifying patterns, outliers, and relationships between variables.
+
+### `Visualising count distribution for various features`
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88886118/216599991-64653b72-7a51-4966-9371-c92be39578d7.png">
@@ -65,11 +67,15 @@ Visualising count distribution for various features
 - In all these distributions we can see more users to be providing 1 ratings
 - Most of the users are either rating lowest or highest. Only few users are provinding mediocer rating(3)
 
+### `Distributionof Overall in respect to recommend feature`
+
 <p align="center">
  <img src="https://user-images.githubusercontent.com/88886118/216608386-a9b8464a-f1e4-448b-8322-bfbd36feb53b.png" width="900" height="500"/>
 </p>
 
 - Overall seems to be very powerful variable there are nearly no recommendations with overall 1,2 and 3 rating and almost all the people are recommending who has 7,8,9 sand 10 rating
+
+### `Checking the effect of layover on recommendation`
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88886118/216608807-8325047e-fb4b-45c0-a258-46d5c2ed85c8.png" width="700" height="400"/>
@@ -90,7 +96,7 @@ Visualising count distribution for various features
 - We can see that out of all the rating features. Out of all the user who is rating ground service most of them are rating 1 or can we said like out of different features ground service have most of 1 rated users
 - Similarly cabin service is a star feature and nost of the people rated 5 to cabin service
 
- `We are check the relation of one feature with other rating feature`
+### `We are check the relation of one feature with other rating feature`
  
  `Similarly we have done for other feature`
 
