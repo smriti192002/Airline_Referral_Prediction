@@ -78,3 +78,9 @@ Visualising count distribution for various features
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88886118/216611577-798f8cb7-572f-45dc-8bc0-6d976565a617.png">
 </p>
+
+- We have observed that when reviews are collected a sufficient number of days after a flight, the majority of users tend to recommend the flight. Conversely, when reviews are collected close to the date of the flight, more users are not recommending the flight. As a result, this may reflect on the airline reputation and it will be beneficial to keep this fact in mind while collecting and analyzing customer feedback to make more informed business decisions.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88886118/216612081-c3ee037b-2659-4adc-9dab-7df5a1007e75.png">
+</p>
