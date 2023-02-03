@@ -8,6 +8,7 @@ Predicting aircraft passenger referal and excavating the main influencing factor
 - <a href="#bquestions">Business Questions</a>
   - <a href="#business_impact">Business Impact</a>
 - <a href="#methodology">Methodology</a>
+  - <a href="#data_dictionary">Data Collect</a>
   - <a href="#data_collect">Data Collect</a>
   - <a href="#data_cleaning">Data Cleaning</a>
     - <a href="#data_description">Data Description</a>
