@@ -23,6 +23,7 @@ The goal of this project is to utilize passenger data from 2006 to 2019 to devel
 Airline referral prediction helps businesses by providing a more efficient and targeted approach to customer acquisition. By identifying customers who are most likely to refer others to the airline, the airline can focus its marketing efforts on these customers, rather than blindly advertising to all customers. This can result in higher conversion rates, as the marketing message is tailored to the specific needs and interests of the target audience. Additionally, by improving customer loyalty and satisfaction, referral prediction can also help to reduce customer churn and increase repeat business, leading to increased revenue and profitability for the airline.
 
 ## 💻 Methodology <p id="methodology"></p>
+
 ![AIRLINE_PASNGR_REFF_649091ceef](https://user-images.githubusercontent.com/88886118/216589365-e5a9bef5-44b6-4dcd-aa01-4cb5fbfbb96a.png)
 
 ## 📝 DATA DICTIONARY <p id="data_dictionary"></p>
