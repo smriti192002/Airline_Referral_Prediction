@@ -144,7 +144,6 @@ It is this project stage that involves the part that most data scientists like t
 | ----------- | ----------- |  ----------- |  ----------- |
 | GradientBoost |	0.96 |	0.95|	0.95
 
-
 ## 📊 FINAL MODEL SELECTION <p id="data_dictionary"></p>
 
 ![download (60)](https://user-images.githubusercontent.com/88886118/216639621-cab8d217-413c-41ea-914d-bb129821d441.png)
