@@ -23,3 +23,6 @@ Airline referral prediction helps businesses by providing a more efficient and t
 
 ## 💻 Methodology <p id="methodology"></p>
 ![AIRLINE_PASNGR_REFF_649091ceef](https://user-images.githubusercontent.com/88886118/216589365-e5a9bef5-44b6-4dcd-aa01-4cb5fbfbb96a.png)
+
+## DATA CLEANING <p id="data_cleaning"></p>
+
