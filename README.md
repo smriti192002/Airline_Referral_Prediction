@@ -68,7 +68,6 @@ Exploratory Data Analysis (EDA) is a method used to analyze and summarize datase
 - Most of the users are either rating lowest or highest. Only few users are provinding mediocer rating(3)
 
 ### `Distributionof Overall in respect to recommend feature`
-
 <p align="center">
  <img src="https://user-images.githubusercontent.com/88886118/216608386-a9b8464a-f1e4-448b-8322-bfbd36feb53b.png" width="900" height="500"/>
 </p>
@@ -76,11 +75,11 @@ Exploratory Data Analysis (EDA) is a method used to analyze and summarize datase
 - Overall seems to be very powerful variable there are nearly no recommendations with overall 1,2 and 3 rating and almost all the people are recommending who has 7,8,9 sand 10 rating
 
 ### `Checking the effect of layover on recommendation`
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88886118/216608807-8325047e-fb4b-45c0-a258-46d5c2ed85c8.png" width="700" height="400"/>
 </p>
 
+### `Checking the effect of days difference between reviewed date and flown date on recommendation`
 - From the graph it seems like there is no serious effects of layover on recommendation to the flight as we can see both the flights with and without layover has higher no recommendation with very slight differences in count of each. We can see that for the flights having no information about layover has higher yes recommendation
 
 <p align="center">
@@ -89,6 +88,7 @@ Exploratory Data Analysis (EDA) is a method used to analyze and summarize datase
 
 - We have observed that when reviews are collected a sufficient number of days after a flight, the majority of users tend to recommend the flight. Conversely, when reviews are collected close to the date of the flight, more users are not recommending the flight. As a result, this may reflect on the airline reputation and it will be beneficial to keep this fact in mind while collecting and analyzing customer feedback to make more informed business decisions.
 
+### `Rating Distribution Check`
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88886118/216612081-c3ee037b-2659-4adc-9dab-7df5a1007e75.png" width="900"/>
 </p>
