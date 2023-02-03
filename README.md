@@ -67,4 +67,4 @@ Visualising count distribution for various features
  <img src="https://user-images.githubusercontent.com/88886118/216608386-a9b8464a-f1e4-448b-8322-bfbd36feb53b.png">
 </p>
 
--Overall seems to be very powerful variable there are nearly no recommendations with overall 1,2 and 3 rating and almost all the people are recommending who has 7,8,9 sand 10 rating
+- Overall seems to be very powerful variable there are nearly no recommendations with overall 1,2 and 3 rating and almost all the people are recommending who has 7,8,9 sand 10 rating
