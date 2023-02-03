@@ -79,8 +79,9 @@ Exploratory Data Analysis (EDA) is a method used to analyze and summarize datase
 <img src="https://user-images.githubusercontent.com/88886118/216608807-8325047e-fb4b-45c0-a258-46d5c2ed85c8.png" width="700" height="400"/>
 </p>
 
-### `Checking the effect of days difference between reviewed date and flown date on recommendation`
 - From the graph it seems like there is no serious effects of layover on recommendation to the flight as we can see both the flights with and without layover has higher no recommendation with very slight differences in count of each. We can see that for the flights having no information about layover has higher yes recommendation
+
+### `Checking the effect of days difference between reviewed date and flown date on recommendation`
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88886118/216611577-798f8cb7-572f-45dc-8bc0-6d976565a617.png">
