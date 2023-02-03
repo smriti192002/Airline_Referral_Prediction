@@ -47,5 +47,5 @@ Important to increase the amount of information needed to better understand the 
 
 Visualising count distribution for various features
 <p align="center">
-![download (49)](https://user-images.githubusercontent.com/88886118/216598018-7f8bc079-2f43-4871-b3e6-2496aafe59c2.png)
+<img src="![download (49)](https://user-images.githubusercontent.com/88886118/216598018-7f8bc079-2f43-4871-b3e6-2496aafe59c2.png)"
 </p>
