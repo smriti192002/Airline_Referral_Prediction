@@ -36,3 +36,9 @@ Performing operations such as:
 - Dropping unneeded columns
 - Text Cleaning in Reviews column 
 - Analysis of Missing Values and treating them with mode and iterative imputation 
+
+## FEATURE ENGENEERING
+
+Important to increase the amount of information needed to better understand the phenomenon we are trying to model. Feature Engineering is also instrumental in obtaining more variables available for study during Data Analysis, which is the next step in this project.
+
+## EXPLORATORY DATA ANALYSIS <p id="data_exploration"></p>
