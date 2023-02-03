@@ -46,5 +46,7 @@ Important to increase the amount of information needed to better understand the 
 ## EXPLORATORY DATA ANALYSIS <p id="data_exploration"></p>
 
 Visualising count distribution for various features
+<p align="center">
 ![download (49)](https://user-images.githubusercontent.com/88886118/216599991-64653b72-7a51-4966-9371-c92be39578d7.png)
+</p>
 
