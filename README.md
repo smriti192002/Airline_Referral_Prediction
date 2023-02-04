@@ -50,9 +50,8 @@ Important to increase the amount of information needed to better understand the 
 Exploratory Data Analysis (EDA) is a method used to analyze and summarize datasets, in order to gain insights and understand the underlying structure of the data. It typically involves visualizing the data, computing basic statistics and identifying patterns, outliers, and relationships between variables.
 
 ### `Visualising count distribution for various features`
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88886118/216599991-64653b72-7a51-4966-9371-c92be39578d7.png">
+<img src="https://user-images.githubusercontent.com/88886118/216670194-c5a0efb3-b369-4ff0-b523-437f05b20e7b.png">
 </p> 
 
 - Slightly more non recommending users are there as compare to recommending users
@@ -61,8 +60,11 @@ Exploratory Data Analysis (EDA) is a method used to analyze and summarize datase
 - Lastly count of economy class in cabins are more and lesser in business class, first class and premium economy
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88886118/216605056-b50e5d35-ad7c-44df-b976-966cc370e380.png">
+  <img src="https://user-images.githubusercontent.com/88886118/216675870-80ad5f98-bf10-4b30-b192-9b59552e8243.png">
 </p>
+
+
+
 
 - In all these distributions we can see more users to be providing 1 ratings
 - Most of the users are either rating lowest or highest. Only few users are provinding mediocer rating(3)
@@ -171,3 +173,5 @@ case 2: If airline company is using this to somewhere to attract customer and tr
 
 We can consider case 1 here and considering all the models are nearly same only and if timing of execution is not a concern then we can go for gradient boost or else we can pick up Loogistic regression or Decision Tree.
 
+
+![plot](https://user-images.githubusercontent.com/88886118/216678506-b15a4d0d-b09a-4f6f-b6c1-c40487dac40b.png)
