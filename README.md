@@ -61,8 +61,9 @@ Exploratory Data Analysis (EDA) is a method used to analyze and summarize datase
 - Lastly count of economy class in cabins are more and lesser in business class, first class and premium economy
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88886118/216675870-80ad5f98-bf10-4b30-b192-9b59552e8243.png">
+  <img src="https://user-images.githubusercontent.com/88886118/216746617-37a21e49-fe97-4e43-9c41-748dcbe0a01c.png">
 </p>
+
 
 
 
@@ -81,8 +82,9 @@ Exploratory Data Analysis (EDA) is a method used to analyze and summarize datase
 ### `Checking the effect of layover on recommendation`
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/88886118/216744063-606bb04a-16df-4662-9be8-de2f6f5c350f.png" width="700" height="400"/>
+<img src="https://user-images.githubusercontent.com/88886118/216778718-4f8df176-3dd2-4eed-b27e-489004a2474b.png" width="700" height="400"/>
 </p>
+
 
 
 - From the graph it seems like there is no serious effects of layover on recommendation to the flight as we can see both the flights with and without layover has higher no recommendation with very slight differences in count of each. We can see that for the flights having no information about layover has higher yes recommendation
@@ -90,16 +92,18 @@ Exploratory Data Analysis (EDA) is a method used to analyze and summarize datase
 ### `Checking the effect of days difference between reviewed date and flown date on recommendation`
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/88886118/216744638-580330ba-7cf6-414e-a366-30aa344bc090.png.png">
+<img src="https://user-images.githubusercontent.com/88886118/216778365-4ecd8282-a627-49fc-89c7-fa76fee54a4a.png">
 </p>
-https://user-images.githubusercontent.com/88886118/216744638-580330ba-7cf6-414e-a366-30aa344bc090.png
+
 
 - We have observed that when reviews are collected a sufficient number of days after a flight, the majority of users tend to recommend the flight. Conversely, when reviews are collected close to the date of the flight, more users are not recommending the flight. As a result, this may reflect on the airline reputation and it will be beneficial to keep this fact in mind while collecting and analyzing customer feedback to make more informed business decisions.
 
 ### `Rating Distribution Check`
 <p align="center">
-<img src="https://user-images.githubusercontent.com/88886118/216612081-c3ee037b-2659-4adc-9dab-7df5a1007e75.png" width="900"/>
+<img src="https://user-images.githubusercontent.com/88886118/216778488-65dc23f6-edad-43f4-b185-10430690e88c.png" width="1000"/>
 </p>
+
+
 
 - We can see that out of all the rating features. Out of all the user who is rating ground service most of them are rating 1 or can we said like out of different features ground service have most of 1 rated users
 - Similarly cabin service is a star feature and nost of the people rated 5 to cabin service
@@ -109,7 +113,7 @@ https://user-images.githubusercontent.com/88886118/216744638-580330ba-7cf6-414e-
  `Similarly we have done for other feature`
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/88886118/216627842-b0564047-8ce7-45b8-8713-ac2e0003a523.png">
+<img src="https://user-images.githubusercontent.com/88886118/216778633-7b5c962d-561c-4581-97a5-e363979a6b26.png">
 </p>
 
 - Comparatively, couples and families who are travelling appear to be less satisfied with the services, as more than 45% of users have provided negative ratings for seat comfort. However, solo leisure users seem to be more satisfied with the seat comfort services.
@@ -162,7 +166,9 @@ It is this project stage that involves the part that most data scientists like t
 
 ## 📊 FINAL MODEL SELECTION <p id="final_model_selection"></p>
 
-![download (60)](https://user-images.githubusercontent.com/88886118/216639621-cab8d217-413c-41ea-914d-bb129821d441.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88886118/216779937-8b462480-4faf-47d7-811d-d85c06831dca.png">
+</p>
 
 `Conclusion on Predictive modelling`
 
@@ -179,4 +185,3 @@ case 2: If airline company is using this to somewhere to attract customer and tr
 We can consider case 1 here and considering all the models are nearly same only and if timing of execution is not a concern then we can go for gradient boost or else we can pick up Loogistic regression or Decision Tree.
 
 
-![plot](https://user-images.githubusercontent.com/88886118/216678506-b15a4d0d-b09a-4f6f-b6c1-c40487dac40b.png)
