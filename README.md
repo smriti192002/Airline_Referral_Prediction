@@ -178,9 +178,7 @@ We have observed that nearly all the models are giving up the same scores from l
 
 Now there are two major scores precision and recall they are coming out to be nearly same and equal. We can provide the importance to each depending on the case for which the model can be used :
 
-Case 1: If Airline company is demanding this recommendation systerm to understand the areas in which they need an improvement to reducing customer churn   is their major concern then we need that precision for class 1 (yes) should be high.
-
-If the primary concern of an airline company in seeking a recommendation system is to reduce customer churn by identifying areas for improvement, then it is important to prioritize high precision for class 1 (indicating customers who are likely to churn). This means that the recommendation system should accurately identify customers who are at risk of leaving, so that the company can take appropriate actions to retain them.
+Case 1: If the primary concern of an airline company in seeking a recommendation system is to reduce customer churn by identifying areas for improvement, then it is important to prioritize high precision for class 1 (indicating customers who are likely to churn). This means that the recommendation system should accurately identify customers who are at risk of leaving, so that the company can take appropriate actions to retain them.
 
 case 2: If airline company is using this to somewhere to attract customer and trying to show the happy customers then recall is important.
 
